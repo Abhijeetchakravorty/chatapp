@@ -1,0 +1,4 @@
+/node_modules
+/runDb.sh
+/runServer.sh
+/config/config.json
